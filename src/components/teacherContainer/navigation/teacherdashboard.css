@@ -1,0 +1,43 @@
+/* teacherdashboard.css */
+
+.teacherdashboard-container {
+    background-color: #f2f2f2;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  }
+  
+  .card {
+    height: 200px;
+    margin-bottom: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    transition: box-shadow 0.3s, transform 0.3s;
+    background-color: #fff;
+  }
+  
+  .card:hover {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transform: translateY(-5px);
+  }
+  
+  .card-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .card-link {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  .row {
+    margin-top: 20px;
+  }
+  
+  .col-md-6 {
+    margin-bottom: 20px;
+  }
+  

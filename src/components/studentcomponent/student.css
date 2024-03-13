@@ -1,0 +1,39 @@
+
+.form-container {
+    margin-top: 20px;
+    
+  }
+  
+  .form-group {
+    margin-bottom: 500px;
+    /* font-size: large; */
+    font-weight: bold;
+   
+  }
+  
+  .header {
+   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-style:oblique;
+   font-weight: bold;
+   font-size: 50px;
+   color:rgb(234, 177, 234)
+  }
+
+  .dropdown {
+    font-weight: bold;
+  }
+  
+
+ 
+ 
+  
+  .addstudentimage {
+    background-image: url('../../../public/images/addstudent.jpg');
+    background-size: cover;
+    background-position: center;
+    min-height: 120vh;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+  
+  }

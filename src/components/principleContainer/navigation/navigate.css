@@ -1,0 +1,19 @@
+/* /* .nav-item {
+    margin-right: 10px;
+    margin-top: 150px;
+    font-weight: 400;
+  }
+   */
+  /* Custom styles for NavLink */
+  .nav-link {
+    color: #d59595; 
+    font-weight: bold; 
+    text-decoration:wavy; 
+  }
+  
+  /* Active state for NavLink */
+  .nav-link.active {
+    color: #ff0000; 
+  }
+  
+   

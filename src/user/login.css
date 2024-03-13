@@ -1,0 +1,45 @@
+
+
+.error-message {
+    color: red;
+  }
+
+  .error{
+    color: red;
+    font-weight: bolder;
+    font-size: larger;
+    margin-left: 300px;
+    margin-top: 200px;
+  }
+
+  /* .loginform{
+  padding: 20px;
+  width: 350px;
+  height: min-content;
+  border-radius: 5px;
+  color: black;
+  margin-left: 250px;
+  background-color:#ccdae8;
+} */
+  
+.wrapper {
+  background-image: url('../../public/images/loginpage.png');
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content:center;
+
+}
+
+
+
+.loginform {
+  padding: 30px;
+  width: 400px;
+  border-radius: 10px;
+  color: black;
+  background-color: #ccdae8;
+}
+

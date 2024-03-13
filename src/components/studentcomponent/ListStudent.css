@@ -1,0 +1,132 @@
+/* Add your custom CSS styling here */
+
+/* ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+.btn-primary,
+.btn-danger {
+    margin-right: 5px;
+}
+
+.modal-dialog {
+    max-width: 600px;
+}
+
+.modal-content {
+    padding: 20px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+fieldset {
+    margin-bottom: 20px;
+}
+
+legend {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+label {
+    font-weight: bold;
+}
+
+input[type="file"] {
+    margin-top: 10px;
+}
+
+span.error-message {
+    color: red;
+} */
+
+/* ListStudent.css */
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+    border: 1px solid #ccc; /* Add border */
+    padding: 10px; /* Add padding for better spacing */
+}
+
+.btn-primary,
+.btn-danger {
+    margin-right: 5px;
+}
+
+.modal-dialog {
+    max-width: 600px;
+}
+
+.modal-content {
+    padding: 20px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+fieldset {
+    margin-bottom: 20px;
+}
+
+legend {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+label {
+    font-weight: bold;
+}
+
+input[type="file"] {
+    margin-top: 10px;
+}
+
+span.error-message {
+    color: red;
+}
+.student-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.edit-delete-buttons {
+    display: flex;
+}
+
+.btn {
+    margin-right: 5px; /* Adjust margin as needed */
+}
+
+
+.search-input {
+    padding-right: 30px; /* Ensure space for the icon */
+    border: 1px solid #ccc; /* Example border style */
+    border-radius: 5px; /* Example border radius */
+    width: 200px; /* Example width */
+}
+
+.search-icon {
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    transform: translateY(-50%);
+    color: #888; /* Example color */
+}
+
+  

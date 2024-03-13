@@ -1,0 +1,50 @@
+.error-message {
+    color: red;
+    font-size: 14px;
+  }
+  
+  .subject-list-item {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .edit-button {
+    margin-right: 5px;
+    background-color: blue; /* Edit button color */
+    color: white;
+  }
+  
+  .delete-button {
+    background-color: red; /* Delete button color */
+    color: white;
+  }
+  
+  .modal-dialog {
+    max-width: 500px;
+  }
+  
+  .modal-body {
+    padding: 20px;
+  }
+  
+
+  .subject-list-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.subject-info {
+    flex-grow: 1; /* Allows the subject info to take up remaining space */
+}
+
+.button-container {
+    display: flex;
+}
+
+.edit-button,
+.delete-button {
+    margin-left: 5px; /* Adjust margin as needed */
+}

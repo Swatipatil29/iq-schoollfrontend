@@ -1,0 +1,50 @@
+.form {
+  margin-top: 200px;
+  padding: 20px;
+  width: 350px;
+  height: min-content;
+  border-radius: 5px;
+  color: black;
+  margin-left: 100px;
+  background-color:#ccdae8;
+}
+
+.principle {
+  margin-top: 170px;
+  width: 600px; 
+  margin-right: 200px;
+  padding: 20px;
+  height: 200px;
+  border-radius: 5px;
+  color: black;
+  
+}
+
+/* .disable {
+  opacity: 0.5; 
+  pointer-events: none; 
+} */
+
+.submit{
+  margin-left: 100px;
+}
+
+
+.wrapper5 {
+  background-image: url('../../public/images/registerpage.png');
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content:center;
+
+}
+
+
+
+  
+
+
+
+    

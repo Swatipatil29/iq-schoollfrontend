@@ -1,0 +1,58 @@
+/* listEventsCalender.css */
+
+.event-list-container {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.event-list-container ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.event-list-container li {
+    margin-bottom: 10px;
+}
+
+.event-list-container button {
+    margin-left: 10px;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.event-list-container button.edit-btn {
+    background-color: #007bff; /* Blue color for edit button */
+    color: white;
+}
+
+.event-list-container button.edit-btn:hover {
+    background-color: #0056b3;
+}
+
+.event-list-container button.delete-btn {
+    background-color: #dc3545; /* Red color for delete button */
+    color: white;
+}
+
+.event-list-container button.delete-btn:hover {
+    background-color: #c82333;
+}
+
+.event-item-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.edit-delete-buttons {
+    display: flex;
+}
+
+.edit-btn,
+.delete-btn {
+    margin-left: 5px; /* Adjust margin as needed */
+}
+

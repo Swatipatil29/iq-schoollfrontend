@@ -1,0 +1,109 @@
+/* ListTeacher.css
+
+.teacher-list-container {
+    margin-top: 20px;
+  }
+  
+  .teacher-list-item {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .teacher-list-item button {
+    margin-left: 10px;
+  }
+  
+  .modal-dialog {
+    max-width: 500px;
+  }
+  
+  .modal-body {
+    padding: 20px;
+  }
+  
+  .form-label {
+    font-weight: bold;
+  }
+  
+  .form-control {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  span.error {
+    color: red;
+    font-size: 12px;
+  }
+   */
+
+   /* ListTeacher.css */
+
+.teacher-list-container {
+    margin-top: 20px;
+  }
+  
+  .teacher-list-item {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .teacher-list-item .edit-button {
+    margin-left: 10px;
+    background-color: #007bff; /* Blue color for the edit button */
+    color: white;
+  }
+  
+  .teacher-list-item .delete-button {
+    margin-left: 10px;
+    background-color: #dc3545; /* Red color for the delete button */
+    color: white;
+  }
+  
+  .modal-dialog {
+    max-width: 500px;
+  }
+  
+  .modal-body {
+    padding: 20px;
+  }
+  
+  .form-label {
+    font-weight: bold;
+  }
+  
+  .form-control {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  span.error {
+    color: red;
+    font-size: 12px;
+  }
+  
+  .teacher-list-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.button-container {
+    display: flex;
+}
+
+.edit-button,
+.delete-button {
+    margin-left: 5px; /* Adjust margin as needed */
+}

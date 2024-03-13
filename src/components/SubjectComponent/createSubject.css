@@ -1,0 +1,24 @@
+.error-message {
+    color: red;
+    font-size: 14px;
+  }
+  
+  .input-container {
+    margin-bottom: 20px;
+  }
+  
+  .submit-button {
+    margin-top: 10px;
+  }
+  
+
+  .addsubjectimage {
+    background-image: url('../../../public/images/addsubjects1.png');
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+  
+  }

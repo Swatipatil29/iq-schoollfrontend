@@ -1,0 +1,29 @@
+
+
+   .school-timings {
+    margin-top: 20px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  /* th, td {
+    border: 2px solid #a353ea;
+    padding: 8px;
+    text-align: center;
+  }
+  
+  th {
+    background-color: #45e189;
+  }
+  
+  td {
+    background-color: #faf56b;
+  }
+  
+  tr:nth-child(even) td {
+    background-color: #bab8e6;
+  }
+   */

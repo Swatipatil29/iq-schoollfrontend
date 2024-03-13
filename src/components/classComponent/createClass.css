@@ -1,0 +1,56 @@
+/* CreateClass.css */
+
+.container {
+    margin-top: 20px;
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+label {
+    font-weight: bold;
+}
+
+input[type="text"],
+select {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+}
+
+/* Error message styles */
+span.error {
+    color: red;
+    font-size: 12px;
+    margin-top: 5px;
+    display: block;
+}
+
+.addclassimage {
+    background-image: url('../../../public/images/addclass1.jpg');
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+  
+  }

@@ -1,0 +1,23 @@
+.wrapper_custom {
+    background-image:  url('../../public/images/image1.jpeg');
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+  }
+  .navbar-colum{
+    background-color:#546e6a;
+  }
+  .nav-link:hover{
+    background-color:rgb(54, 181, 216) ;
+    
+  }
+  
+  .navbar{
+    /* background-color: #c2d1e0; */
+    
+    font-style: italic;
+    margin-top: 8px;
+  }
+
+
+  
